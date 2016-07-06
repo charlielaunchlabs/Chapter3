@@ -12,7 +12,4 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <DisabledProjects>
-    <String>iOS/ChapterThree.iOS.csproj</String>
-  </DisabledProjects>
 </Properties>
