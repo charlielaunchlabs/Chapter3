@@ -25,8 +25,8 @@ namespace ChapterThree
 		Label labe = new Label
 		{
 			Text = "",
-			HorizontalOptions = LayoutOptions.Start,
-			VerticalOptions = LayoutOptions.Center,
+			HorizontalOptions = LayoutOptions.Center,
+			VerticalOptions = LayoutOptions.Start,
 
 		};
 
@@ -140,7 +140,7 @@ namespace ChapterThree
 			{
 				//BackgroundColor = Color.White,
 
-				VerticalOptions = LayoutOptions.Fill,
+				VerticalOptions = LayoutOptions.Start,
 				Content = stackThree
 			};
 
